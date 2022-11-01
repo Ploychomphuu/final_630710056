@@ -16,4 +16,4 @@ class ApiResult {
       data: json['data'],
     );
   }
-}
+}//

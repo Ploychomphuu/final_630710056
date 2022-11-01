@@ -19,4 +19,4 @@ class BallItem {
       flagImage: json['flagImage'],
     );
   }
-}
+}//
